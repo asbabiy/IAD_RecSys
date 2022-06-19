@@ -1,1 +1,3 @@
 # IAD_RecSys
+
+Let some description finally be here. That's my first attempt doing RecSys without any true real-world data though...
